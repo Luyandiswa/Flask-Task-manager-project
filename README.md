@@ -30,7 +30,7 @@ This is a simple **Task Manager** web application built using **Flask**, a light
 - **Data Storage**: In-memory (for simplicity) — could be replaced by a database like SQLite or PostgreSQL in the future.
 - **Authentication**: Built-in user authentication using **sessions** in Flask.
 - **Password Validation**: Regular expressions for secure password validation.
-# Task Manager Flask Application
+
 
 ## Project Structure
 ```
