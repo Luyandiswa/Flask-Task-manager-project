@@ -26,4 +26,4 @@ To run the application on your local machine, follow these steps:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/flask-project.git
+   git clone https://github.com/Luyandiswa/flask-project.git
