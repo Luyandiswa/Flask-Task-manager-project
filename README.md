@@ -11,7 +11,7 @@ This is a simple **Task Manager** web application built using **Flask**, a light
   - At least one uppercase letter
   - At least one number
   - At least one special symbol
-**Added Features**
+- **Added Features**
 - User registration and authentication
 - Create, read, update, and delete tasks
 - Mark tasks as complete/incomplete
