@@ -99,4 +99,4 @@ You can set these environment variables to configure the application:
 ## Contributors
 
 - [viincci](https://github.com/viincci)
-- [OriginalAuthor](https://github.com/OriginalAuthor)
+- [Original Author - Luyandiswa](https://github.com/Luyandiswa)
