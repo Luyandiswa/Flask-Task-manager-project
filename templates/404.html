@@ -1,0 +1,13 @@
+<!-- 404.html -->
+{% extends "base.html" %}
+
+{% block title %}Page Not Found{% endblock %}
+
+{% block content %}
+<div class="text-center mt-5">
+    <h1 class="display-1">404</h1>
+    <p class="lead">Oops! The page you're looking for doesn't exist.</p>
+    <p>We couldn't find the page you were looking for. It might have been moved or deleted.</p>
+    <a href="{{ url_for('home') }}" class="btn btn-primary mt-3">Go to Homepage</a>
+</div>
+{% endblock %}
