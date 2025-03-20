@@ -96,3 +96,7 @@ You can set these environment variables to configure the application:
 - `DATABASE_URL`: Database URI (default: 'sqlite:///tasks.db')
 - `FLASK_DEBUG`: Debug mode (True/False, default: True)
 
+## Contributors
+
+- [viincci](https://github.com/viincci)
+- [OriginalAuthor](https://github.com/OriginalAuthor)
