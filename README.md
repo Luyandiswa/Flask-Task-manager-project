@@ -20,10 +20,3 @@ This is a simple **Task Manager** web application built using **Flask**, a light
 - **Authentication**: Built-in user authentication using **sessions** in Flask.
 - **Password Validation**: Regular expressions for secure password validation.
 
-## How to Run Locally
-
-To run the application on your local machine, follow these steps:
-
-1. **Clone the repository** to your local machine:
-   ```bash
-   git clone https://github.com/Luyandiswa/flask-project.git
